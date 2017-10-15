@@ -37,5 +37,3 @@ while factorInt <= 12 {
 
 
 
-
-
